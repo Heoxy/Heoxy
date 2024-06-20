@@ -1,5 +1,5 @@
 
-### Olá, eu sou o João Felipe! Aluno de Física na Universidade Estadual de Campinas, interessado em desenvolvimento de software para backend e análise de dados! 👋
+### Olá, eu sou o João Felipe! Aluno de Física na Universidade Estadual de Campinas, interessado em desenvolvimento de software e análise de dados! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-felipe-feitosa-ferreira-1515101a7/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Heoxy1)
